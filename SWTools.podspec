@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "SWTools"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "Integration tool."
 
   
@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, "9.0"
 
 
-  spec.source       = { :git => "https://github.com/Snowxls/SWTools.git", :tag => "1.0.0" }
+  spec.source       = { :git => "https://github.com/Snowxls/SWTools.git", :tag => "1.0.1" }
 
 
   spec.source_files  = "SWTools/*.{h,m}"
