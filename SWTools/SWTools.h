@@ -15,7 +15,6 @@
 #import "UIScreen+SWScreen.h"
 #import "UIView+SWViewTools.h"
 #import "UIImageView+SWRadius.h"
-#import "NSString+SWURL.h"
 
 @interface SWTools : NSObject
 

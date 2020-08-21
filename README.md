@@ -191,17 +191,3 @@
  */
 + (NSString *)md5:(NSString *)input;
 ```
-
-- URL
-
-```
-/**
- *  URLEncode
- */
-- (NSString *)URLEncodedString;
-
-/**
- *  URLDecode
- */
--(NSString *)URLDecodedString;
-```
